@@ -1,9 +1,3 @@
-# hunc
-repositorio teste
+# test-git
 
-atualização na main.
-
-novamente
-
- para fixar com resolução
- agora entendi como fazer o pullrequest
+this is a new test of github, just learning about git and github
